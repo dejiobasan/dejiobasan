@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an electrical/electronics engineer and a software developer<br>(full-stack), with a passion for science and technology.
+I'm an electrical/electronics engineer and a software engineer<br>(full-stack), with a passion for science and technology.
 
 
 ## 🌐 Socials:
